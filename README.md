@@ -1,1 +1,2 @@
-# ___ZOOM_WEB_CLONE___
+# Zoom
+A full stack video conferencing web application.
